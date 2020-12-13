@@ -75,7 +75,7 @@ pip install
 박근수 
 - E-mail : papa2618@gmail.com
 윤성연
-- E-mail : 
+- E-mail : datascience123@naver.com
 채윤길  
 - E-mail : 
 ~~~
