@@ -26,7 +26,7 @@
   |  |-
   |
   |-Crawler                     
-  |  |-summary.py                            
+  |  |-BigKinds_crawler.py                            
   |                          
   |
   |-README.md                                #이 문서
@@ -35,7 +35,16 @@
 ## Getting started
 ###  Dependency Build Instructions
 ```
-pip install 
+pip install Selenium
+pip install pandas
+pip install numpy
+pip insatll tenserflow
+pip insatll keras
+pip install datetime
+pip install Konlpy
+pip install pickle
+pip install nltk
+pip insatll windowsound
 
 ```
 
@@ -78,6 +87,6 @@ pip install
 윤성연
 - E-mail : datascience123@naver.com
 채윤길  
-- E-mail : 
+- E-mail : mw6218@naver.com
 ~~~
 
