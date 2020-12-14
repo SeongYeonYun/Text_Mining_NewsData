@@ -45,6 +45,7 @@ pip install
 
 ### Dictionary
  주가의 증감에 따라 감성점수를 부여하고 그것을 아래에 공식에 따라 점수를 계산하여 사전화를 진행
+ 
 #### Emotional score formula
  단어의 감성점수
 
