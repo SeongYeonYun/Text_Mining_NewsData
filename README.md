@@ -58,18 +58,18 @@ pip insatll windowsound
 #### Emotional score formula
  단어의 감성점수
 
-![단어](./image/word_score)
+![단어](./image/words_score.PNG)
  
  뉴스의 감성점수
 
-![뉴스](./image/news_score)
+![뉴스](./image/news_score.PNG)
  
  이날의 감성점수
 
-![이날](./image/today_score)
+![이날](./image/today_score.PNG)
 
 #### Dictionary Example
-![사전](./image/dictionary_sample)
+![사전](./image/Dictionary_sample.png)
 
 ### Modeling
 1.  TF-IDF 
