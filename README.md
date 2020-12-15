@@ -13,20 +13,25 @@
 
 ##  Directory structure
 ``` 
-  |-TextData           
-  |  |-
-  |  
-  |  
+  |-TextData          
+  |  |-data
+  |     |-Text_data                         # 뉴스 데이터
+  |     |-Score_data                        # 점수 데이터 
   |
+  |     
   |-Dictionary    
-  |  |-
-  |  
+  |  |- Dictionary code                     # 사전 구성 코드
+  |  |- Dictionary                          # 기업별 사전
+  | 
+  |
   |
   |-TextAnalyze   
-  |  |-
-  |
+  |  |- TF-IDF                              # TF-IDF 코드
+  |  |- N-Gram                              # N-gram 코드   
+  |  |- Model code                          # LSTM 코드
+  | 
   |-Crawler                     
-  |  |-BigKinds_crawler.py                            
+  |  |-BigKinds_crawler.py                  # 크롤러 코드          
   |                          
   |
   |-README.md                                #이 문서
